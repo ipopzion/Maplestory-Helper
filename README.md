@@ -12,8 +12,8 @@ I created this tool to help myself and my friends make quick decision on purchas
 As there are many factors in cost consideration, Monte Carlo method is used to average the cost instead of an expected value calculation,   
 i.e. large number of simulations and averaged, before being presented as a result.  
 
-_Values used in calcuations originate from the following two links:_
-https://strategywiki.org/wiki/MapleStory/Spell_Trace_and_Star_Force
+_Values used in calcuations originate from the following two links:_  
+https://strategywiki.org/wiki/MapleStory/Spell_Trace_and_Star_Force  
 https://strategywiki.org/wiki/MapleStory/Potential_System
 
 # Epic Potential Calculation
