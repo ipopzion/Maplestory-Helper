@@ -1,6 +1,6 @@
 # Maplestory Helper
-For the calculation of the cost of upgrading equipment in Maplestory 
-_Only Starforce and Epic potential calculation_ 
+For the calculation of the cost of upgrading equipment in Maplestory  
+_Starforce and Epic potential calculation_ 
 
 # General Description
 Maplestory is an MMORPG with a sizeable player base. To progress through the game, good equipment is crucial.  
