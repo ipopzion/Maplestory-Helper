@@ -17,11 +17,15 @@ https://strategywiki.org/wiki/MapleStory/Spell_Trace_and_Star_Force
 https://strategywiki.org/wiki/MapleStory/Potential_System
 
 # Epic Potential Calculation
-In Epic Potential Calculation, type and rarity of the equipment is important in calculating the probability, while the level of the equipment determines the cost. A commonly used default value had been filled-in in advance to assist the user. 
+In Epic Potential calculation, type and rarity of the equipment is important in calculating the probability, while the level of the equipment determines the cost.  
+A commonly-used value had been filled-in in advance to assist the user. 
 
 After which, the estimated costs to achieve the different tiers of upgrades will be shown. 
 
-![image](https://user-images.githubusercontent.com/80518234/147248200-7cb9d00b-9d1a-4275-9aab-4a0882431bc3.png)
-![image](https://user-images.githubusercontent.com/80518234/147248273-92f62201-2bbc-41b7-b029-f0e3d5c2bc7b.png)
+![image](https://user-images.githubusercontent.com/80518234/147252036-36e9deca-b535-4dd0-9fe7-fb68f2c97e96.png)
 
 # Starforce Calculation 
+In Starfoce calculation, there is a chance of the equipment breaking, with the chance increasing according to the starforce level.  
+This calculator takes into account the chances, as well as informing the user which level the equipment is most likely to break at. 
+
+![image](https://user-images.githubusercontent.com/80518234/147252831-9ac1f671-8f93-4fd6-bce4-e2bd7e8bd6ed.png)
