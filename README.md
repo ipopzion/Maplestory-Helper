@@ -1,5 +1,5 @@
 # Maplestory Helper
-For the calculation of the cost of upgrading equipment in Maplestory  
+For the calculation of the cost of upgrading equipment in Maplestory using Monte Carlo method  
 _Starforce and Epic potential calculation_ 
 
 # General Description
